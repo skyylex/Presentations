@@ -51,10 +51,10 @@ So what if we could build the system that could:
 ### Implementation steps
 
 - **Choose source language - Python.** 
-    - Algorithms itself has a lot of difficulties, and there is no reason to add new.(not C-language)
-    - Python is inside TOP-10 popular languages. 
+    - Algorithm itself has a lot of difficulties, and there is no reason to add new.(not C-language)
+    - Python is inside TOP-10 popular programming languages. 
     - Python has a lot of tools to parse itself.
-    - MIT choosed Python as an main language for the Introduction for to algorithms
+    - MIT choosed Python as an main language for the Introduction for to algorithms (2011)
 
 - **Design structure**
     - Separate **Visualization** from **Logic**
@@ -81,7 +81,7 @@ So what if we could build the system that could:
 
 - Not all algorithms are suitable for the such approach
 - A lot temporary variables that will also be found as a data change. (Filtration needed).
-- Effective visualizations should consider grouping of the data changes
+- Effective visualizations should consider grouping of the data changes (trees, flows)
 
 ### Questions?
 
