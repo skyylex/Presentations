@@ -68,10 +68,10 @@ So what if we could build the system that could:
 
 ### Current state of the project
 
-- Analyze the places where data changes should be collected [DONE]
-- Transform source code to collect necessary data changes [DONE]
-- Evaluate transformed source code [DONE]
-- Build function calls models
+- Analyze the places where data changes should be collected &#9989;
+- Transform source code to collect necessary data changes &#9989;
+- Evaluate transformed source code &#9989;
+- Build function calls models &#9989;
 - Do filtration to remove unnecessary data
 - Build visualiser models
 - Implement drawing of the models
