@@ -12,7 +12,7 @@
 
 ###Introduction
 
-Flowcharts is mostly about presenting **how to implement** algorithm, instead of presenting **the main idea** of algorithm.
+Flowcharts are mostly about presenting **how to implement** algorithm, instead of presenting **the main idea** of algorithm.
 
 
 There are a lot of ways to present algorithms ideas:
