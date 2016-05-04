@@ -9,3 +9,6 @@
 >  Show me your tables, and I won’t usually need your flowcharts; they’ll be obvious.*
 >
 > ------- <cite>Frederick Brooks, The Mythical Man-Month (1975)</cite>
+
+What if...
+***Algorithm == a set of changes applied to the input data?***
